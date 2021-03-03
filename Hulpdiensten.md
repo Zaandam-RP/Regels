@@ -1,6 +1,6 @@
 # Hulpdiensten Regels
 
-<b>Algemene Regels</b>
+<b>Algemene Regels</b> </br>
  ➥ Het agressief benaderen van hulpdiensten is niet toegestaan. Blijf ten alle tijde vriendelijk.</br>
  ➥ Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de politie, kmar, ambulance, anwb, rijkswaterstaat en taxi.</br>
  ➥ Wanneer je een overheidsbaan aan het uitvoeren bent dien je gebruik maken van de porto dit om de roleplay te verbeteren.</br>
@@ -10,7 +10,7 @@
  ➥ Criminele activiteiten uitvoeren als je een overheidsbaan hebt is niet toegestaan. Zowel niet in als uit dienst</br>
  ➥ Het scammen van hulpdiensten is niet toegestaan.</br>
  
-<b>Politie/Kmar Regels</b>
+<b>Politie/Kmar Regels</b> </br>
  ➥ Bij een winkel overval mag er geen DSI niet komen mits er automatische vuurwapens aanwezig zijn of er meer dan 5 hostages zijn.</br>
  ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of Kmar in andere sitiaties is dit niet toegestaan.
  ➥ Het reviven van collega's mag niet. Als zij zijn neergestoken terwijl zij een steekvest dragen mag je ze wel reviven, maar doe dit wel na het scenario. </br>
@@ -22,22 +22,22 @@
  ➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.</br>
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan, behalve als je geblindeerde ramen hebt.</br>
  
-<b>Ambulance Regels</b>
+<b>Ambulance Regels</b> </br>
  ➥ Het reviven van personen die zijn doodgeschoten of neergestoken is niet toegestaan.</br>
  ➥ Het samenwerken met de onderwereld is niet toegestaan. Dit valt onder corruptie.</br>
  ➥ Het betaald krijgen om iemand te reviven is niet toegestaan. Dit valt onder corruptie.</br>
  ➥ Het reviven van een persoon die niet meer aanspreekbaar is is niet toegestaan.</br> 
  ➥ Het reviven van een persoon die persoon minder dan 30% bloedheeft is niet toegestaan.</br>
 
-<b>ANWB Regels</b>
+<b>ANWB Regels</b> </br>
  ➥ Mensen weigeren mag alleen als ze een bedrijging voor jou of je collega's. </br>
  ➥ Bij het maken van een melding bij de anwb moet er een locatie bij staan. </br>
  ➥ Er staat een boete op het beuken van een ANWB voertuig, ook als je je niet gedraagd op het hoofdkwartier van de anwb.</br>
  ➥ Het afsluiten van abbonementen kan alleen bij hoofd-monteur of hoger.</br>
 
-<b>Taxi Regels</b>
+<b>Taxi Regels</b> </br>
  ➥ Taxi mag personen weigeren als er een dreiging is voor de taxi-chauffeur.</br>
  ➥ Bij het maken van een melding bij de taxi moet er een locatie bij staan.
  
 <b>LET OP! NIET ALLE REGELS ZULLEN HIERBOVEN VERMELD WORDEN.</b>
-© 2021 ZzaandamRP
+© 2021 ZaandamRP
