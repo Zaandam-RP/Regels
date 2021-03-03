@@ -1,1 +1,1 @@
-
+<b>Algemene Regels<b>
