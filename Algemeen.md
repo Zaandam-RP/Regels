@@ -30,7 +30,7 @@
  
 ◦ <b>Soundboard/Voicechanger</b> ➥ Het gebruiken van een soundboard of voicechanger is niet toegestaan.
 
-◦ <b>Schelden Met Kanker</b> ➥ Schelden met kanker is op in elk geval niet toegestaan.
+◦ <b>Schelden Met Kanker</b> ➥ Schelden met kanker is in elk geval niet toegestaan.
 
 ◦ <b>Microfoon</b> ➥ Je moet een goed werkende microfoon hebben. Heb je dit niet is het niet toegestaan om te stad te betreden.
 
