@@ -46,6 +46,6 @@
 
 ◦ <b>Real Life Geld</b> ➥ Het verkopen van diensten/spullen voor Real Life Geld is niet toegestaan. Hier staat een <b>permanente<b> ban op
 
-© 2021 ZaandamRP
-  
+
+© 2021 ZaandamRP  
   
