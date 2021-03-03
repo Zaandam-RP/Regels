@@ -42,7 +42,7 @@
 
 ◦ <b>Refunds</b> ➥ Voorwerpen worden niet gerefund zonder bewijs van een clips.
 
-◦ <b>Green Zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen. Als een persoon vlucht naar greenzone terwijl het scenario buiten greenzone is gestart mag je ALLEEN ALS JE EEN CLIP HEBT hem doden in Greenzone. De volgende locaties zijn Green Zones: Politiebureau, Kmarbureau, ANWB Hoofdkwartier, Cardealer, Blokkenpark, Gemeentehuis en Casino.
+◦ <b>Green Zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen. De volgende locaties zijn Green Zones: Politiebureau, Kmarbureau, ANWB Hoofdkwartier, Cardealer, Blokkenpark, Gemeentehuis en Casino.
 
 ◦ <b>Real Life Geld</b> ➥ Het verkopen van diensten/spullen voor Real Life Geld is niet toegestaan. Hier staat een <b>permanente</b> ban op!
 
