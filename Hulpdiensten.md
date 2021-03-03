@@ -27,7 +27,7 @@
  ➥ Het samenwerken met de onderwereld is niet toegestaan. Dit valt onder corruptie.</br>
  ➥ Het betaald krijgen om iemand te reviven is niet toegestaan. Dit valt onder corruptie.</br>
  ➥ Het reviven van een persoon die niet meer aanspreekbaar is is niet toegestaan.</br> 
- ➥ Het reviven van een persoon die persoon minder dan 30% bloedheeft is niet toegestaan.</br>
+ ➥ Het reviven van een persoon die persoon minder dan 30% bloed heeft is niet toegestaan.</br>
 
 <b>ANWB Regels</b> </br>
  ➥ Mensen weigeren mag alleen als ze een bedrijging voor jou of je collega's. </br>
