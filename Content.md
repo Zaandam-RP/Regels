@@ -2,7 +2,7 @@
 
 ◦ <b>Opnames</b> ➥ Het is toegestaan om opnames te maken van je gameplay. Je mag deze op geen enkele wijze promoten tenzij je een Content Creator rol hebt aangevraagd bij tickets.
 
-◦ <b>Tonen Van Locaties</b> ➥ Het tonen van geheime locaties in een opname is niet toegestaan.
+◦ <b>Tonen Van Locaties</b> ➥ Het tonen van geheime locaties in een opname is niet toegestaan!
 
 ◦ <b>Streamsnipen</b> ➥ Streamsnipen is op geen enkele wijze toegestaan. Hier zijn een paar voorbeelden van streamsnipen:
 - Het volgen van een streamer.
