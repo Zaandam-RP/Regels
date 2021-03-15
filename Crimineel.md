@@ -29,13 +29,14 @@
      ➥ Het vermoorden van hostages mag als het scenario uit de hand loopt anders is dit niet toegestaan. <br> 
      ➥ Het vermoorden van burgers mag. Zolang je de bovenstaande regels opvolgt! <br>
 
-◦ <b>Het Overvallen van een gebouw</b> <br>
+◦ <b>Het overvallen van een gebouw</b> <br>
      ➥ Maximaal aantal overvallers bij een grote bank en humanelabs is 10. <br>
      ➥ Maximaal aantal overvallers bij een winkel of kleine bank is 5. <br>
      ➥ Maximaal aantal overvallers een juwelier of jacht is 7. <br>
      ➥ Maximaal aantal hostages bij een grote bank of humanelabs is 10. <br>
      ➥ Maximaal aantal hostages bij een winkel of kleine bank is 5.<br>
      ➥ De onderhandelaar mag niet worden gegijzeld of beschoten worden tijdens een onderhandeling.<br>
+     ➥ Outside shooters zijn toegestaan met een maximaal aantal van 2.<br>
      ➥ Het onnodig doodschieten van hostages mag niet! <br>
      ➥ Vrienden als hostage nemen is niet toegestaan.<br>
      ➥ Aantal politie/kmar dat nodig is voor een grote bank of humanelabs is 7.<br>
