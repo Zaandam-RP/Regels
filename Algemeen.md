@@ -6,6 +6,8 @@
 
 ◦ <b>Gta Drive Style</b> ➥ Het met hoge snelheden door de stad heen rijden, stuntjumps nemen en boven de 100 km/h offroad rijden is niet toegestaan
 
+◦ <b>Offroad Rijden</b> ➥ Met een normale auto mag je onder de 50 km/h offroad rijden. Met een SUV of een auto met offroad banden mag je onder de 100 offroad rijden.
+
 ◦ <b>Combat Loggen</b> ➥ Het verlaten van de server in een scenario of staffzaak is niet toegestaan.
 
 ◦ <b>Combat Storing</b> ➥ Het bijvoorbeeld niet meewerken bij een huiszoekingsbevel is niet toegestaan, echter mag je wel treuzelen als je bijvoorbeeld vrienden hebt geregeld die je komen helpen.
@@ -18,7 +20,7 @@
 
 ◦ <b>Metagamen</b> ➥ Het buiten game verkregen informatie ingame gebruiken is niet toegestaan.
 
-◦ <b>Powergamen</b> ➥ Het "overpowerd" maken van een situatie. Bijvoorbeeld het nemen van extreem veel hostages zodat de politie hier niks tegen kan doen is niet toegestaan
+◦ <b>Powergamen</b> ➥ Het "overpowerd" maken van een situatie. Bijvoorbeeld het nemen van extreem veel hostages zodat de politie hier niks tegen kan doen is niet toegestaan.
 
 ◦ <b>Bugs</b> ➥ Het misbruiken van bugs en niet melden is niet toegestaan. Hier kan een <b>permanente</b> ban op staan!
 
